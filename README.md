@@ -1,6 +1,6 @@
 # CMS Starter
 
-Next.js CMS starter wired to the [Backend Template API](https://github.com) via same-origin proxying, cookie-based JWT auth, and Next.js 16 `proxy.ts` route protection.
+Next.js CMS starter wired to the [Backend Template](https://github.com/mustafaeneskalkan/backend) via same-origin proxying, cookie-based JWT auth, and Next.js 16 `proxy.ts` route protection.
 
 ## Prerequisites
 
@@ -79,4 +79,4 @@ npm run lint   # ESLint
 
 ## API reference
 
-See the backend OpenAPI spec: `Server Apps/backend/docs/openapi.bundle.yaml`
+See the backend OpenAPI spec: [Backend OpenAPI](https://github.com/mustafaeneskalkan/backend/blob/main/docs/openapi.bundle.yaml)
